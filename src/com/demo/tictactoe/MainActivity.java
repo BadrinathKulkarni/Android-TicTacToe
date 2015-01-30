@@ -11,6 +11,7 @@ import android.widget.TableRow;
 
 public class MainActivity extends Activity {
 
+// test
 	static int CELL_USED = 100;
 	static int FREE = 0;
 	static int TICK = 1;
